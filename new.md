@@ -1,5 +1,3 @@
-<p><markdown>
-#Markdown Live Editor#
 #Hi#
 
 This is a [Markdown][1] live editor built using [WMD][2] and other open source tools. I use it to write entries for my [posterous][3] blog and other places where Markdown is needed.
@@ -27,4 +25,3 @@ To learn more about markdown click [here][5]
 [3]: http://posterous.com
 [4]: http://placehold.it/350x150
 [5]: http://daringfireball.net/projects/markdown/
-</markdown></p>
